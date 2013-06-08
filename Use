@@ -1,0 +1,9 @@
+git init
+
+git add ./bin/ ./src/
+
+git commit -m "THIS IS A TEST"
+
+git remote add origin https://github.com/Castlely/AUDIO_LAB2.git
+
+git clone https://github.com/Castlely/AUDIO_LAB2.git
